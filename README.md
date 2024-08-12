@@ -4,11 +4,15 @@
   
 # Database Schema
 ## Table: Authors
+
   This table stores information about the authors.
+  
     <img src="https://github.com/user-attachments/assets/6c55dc71-0253-4541-b80e-d0303a58afb3" />
     
 ## Table: Books
+
   This table stores information about the books and associates each book with an author.
+  
     <img src = "https://github.com/user-attachments/assets/93cb45b4-6908-4413-a38c-77889dc07a24"/>
 
 # Relationships
