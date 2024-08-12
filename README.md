@@ -25,6 +25,7 @@ This project is open-source and available under the MIT License.
 
 ## Author Table
 <img src = "https://github.com/user-attachments/assets/1f5ddc8c-30bf-4b25-8687-3e74967d0550"/>
+
 ## Book Table
 <img src = "https://github.com/user-attachments/assets/8c1cca6d-1d1b-4272-b09a-03a1afa3a448"/>
 
